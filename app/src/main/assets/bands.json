@@ -1,0 +1,84 @@
+{
+ "bands": [
+   {
+     "id": "1",
+     "name": "Between the Buried and Me"
+   },
+   {
+     "id": "2",
+     "name": "Death"
+   },
+   {
+     "id": "3",
+     "name": "Entombed"
+   },
+   {
+     "id": "4",
+     "name": "Fear Factory"
+   },
+   {
+     "id": "5",
+     "name": "Hypocrisy"
+   },
+   {
+     "id": "6",
+     "name": "Children of Bodom"
+   },
+   {
+     "id": "7",
+     "name": "In Flames"
+   },
+   {
+     "id": "8",
+     "name": "Morbid Angel"
+   },
+   {
+     "id": "9",
+     "name": "Job for a Cowboy"
+   },
+   {
+     "id": "10",
+     "name": "Krisiun"
+   },
+   {
+     "id": "11",
+     "name": "Living Sacrifice"
+   },
+   {
+     "id": "12",
+     "name": "Nile"
+   },
+   {
+     "id": "13",
+     "name": "Opeth"
+   },    
+   {
+     "id": "14",
+     "name": "Soilwork"
+   },
+   {
+     "id": "15",
+     "name": "Periphery"
+   },
+   {
+     "id": "16",
+     "name": "Queensrÿche"
+   },
+   {
+     "id": "17",
+     "name": "Rammstein"
+   },
+   {
+     "id": "18",
+     "name": "Threat Signal"
+   },
+   {
+     "id": "19",
+     "name": "Arch Enemy"
+   },
+   {
+     "id": "20",
+     "name": "Grave"
+   }
+ ]
+}
